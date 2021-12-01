@@ -1,4 +1,8 @@
-### Hi there 👋
+### 꾸준하게 기록하는 프론트앤드 개발자입니다.
+
+### 기술 스택은 꾸준하게 쌓아갈 예정입니다
+
+
 
 <!--
 **Sangdon1029/Sangdon1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
