@@ -17,8 +17,9 @@
 
 
 <br>
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/html-d1ccc9?style=social&logo=html5&logoColor=yello"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangdon1029&count_bg=%23BFD5AE&title_bg=%23B2A1A1&icon=awesomelists.svg&icon_color=%23C6DFB0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
