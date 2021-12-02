@@ -3,6 +3,14 @@
 ### 기술 스택은 꾸준하게 쌓아갈 예정입니다
 
 
+
+
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangdon1029&count_bg=%23BFD5AE&title_bg=%23B2A1A1&icon=awesomelists.svg&icon_color=%23C6DFB0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **Sangdon1029/Sangdon1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
