@@ -1,10 +1,8 @@
 
-<br>  
- 
- <h2 align ="center"> 안녕하세요 </h2>
- <h2 align ="center">코딩하는 것이 좋아하고 </h2>
- <h2 align ="center">문제를 해결하는 것에 관심이 많은 </h2>
- <h2 align ="center"> 프론트엔드 개발자 입니다.</h2>
+### <p align ="center"> 안녕하세요 </p>
+### <p align ="center">코딩하는 것이 좋아하고 </p>
+### <p align ="center">문제를 해결하는 것에 관심이 많은 </p>
+### <p align ="center"> 프론트엔드 개발자 입니다.</p>
 <br>
 <br>
 <br>
@@ -13,7 +11,7 @@
 <hr>
 <br>
 <br>
-
+  
 
 - 현재 '멋쟁이 사자처럼 프론트앤드 스쿨'에서 공부 중입니다.
 - 제가 필요하시다면 gorist@likelion.org 으로 연락주세요.
@@ -36,7 +34,7 @@
 <br>
 <br>
 
-<h2 align="center"> Skill </h2>
+<h3 align="center"> Skill </h2>
 <hr>
 <h3 align="center">Front-end</h3>
 <div align="center" border="solide">  
