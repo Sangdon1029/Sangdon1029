@@ -2,7 +2,7 @@
 
 <!--윤식님 감사합니다-->
 ### <p align ="center"> 안녕하세요 </p>
-### <p align ="center">코딩하는 것이 좋아하고 </p>
+### <p align ="center">코딩하는 것을 좋아하고 </p>
 ### <p align ="center">문제를 해결하는 것에 관심이 많은 </p>
 ### <p align ="center"> 프론트엔드 개발자 입니다.</p>
 <br>
