@@ -76,9 +76,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangdon1029&hide_border=true&layout=compact" align="right" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangdon1029&hide_border=true&layout=compact" align="right" width="300px" />  
 
-[![SangdonKim github stats](https://github-readme-stats.vercel.app/api?username=Sangdon1029&count_private=true&bg_color=green)](https://github.com/anuraghazra/github-readme-stats)
+[![SangdonKim github stats](https://github-readme-stats.vercel.app/api?username=Sangdon1029&count_private=true&bg_color=gold)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
