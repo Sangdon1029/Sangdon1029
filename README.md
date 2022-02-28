@@ -17,10 +17,6 @@
 <br>
 
 - ✍ I'm currently leanring React.
-- 📂 Project <br>
-  1. [스타벅스 페이지 클론](https://sangdon1029.github.io/Starbucks-clone/)
-  2. [벤딩머신 만들어보기](https://projectlv3.netlify.app/)
-  3. [영화목록 페이지 만들기](https://sangdon1029.github.io/Project/)  
 <br>
 <br>
 <br>
