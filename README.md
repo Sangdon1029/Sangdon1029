@@ -14,6 +14,13 @@
 - '멋쟁이 사자처럼 프론트앤드 스쿨'을 수료하였습니다.
 - 제가 필요하시다면 gorist@likelion.org 으로 연락주세요.
 
+## 프로젝트 바로 보기
+
+- <a href="https://bread-fit-react.vercel.app/">Bread-Fit_빵을 위한 사람들</a>
+- <a href="https://stopwar.co.kr/">Stop-war</a>
+- <a href="https://www.mybutton.shop/">Button</a>
+- <a href="https://sangdon1029.github.io/HLDIT-TB-EXP/">1만 시간의 법칙</a>
+
 <br>
 
 - ✍ I'm currently leanring React-Native.
