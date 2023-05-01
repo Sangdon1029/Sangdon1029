@@ -11,7 +11,7 @@
 ## 프로젝트 바로 보기
 
 - <a href="https://bread-fit-react.vercel.app/">Bread-Fit_빵을 위한 사람들</a>
-- <a href="https://www.mybutton.shop/">Button</a>
+- <a href="https://www.mybutton.store/">Button</a>
 - <a href="https://stopwar.co.kr/">Stop-war</a>
 
 
