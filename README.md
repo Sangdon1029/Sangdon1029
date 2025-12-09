@@ -1,10 +1,12 @@
 ![](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=SangDon&fontSize=40)
 
 ### <p align ="center">Welcome</p>
-### <p align ="center">Plz contact below information</p>
+### <p align ="center">Please contact below information</p>
 
 <br>
 
+## Resume
+<a align ="center" href="https://sangdon-resume.vercel.app/" align ="center"> Resume Link </p> 
 
   ## 📞 Contact
   <!-- Developers only: Decode me! -->
